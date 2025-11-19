@@ -3,5 +3,7 @@
   "extends": [
     "github>bettermarks/renovate-config:javascript",
     ":automergeStableNonMajor"
-  ]
+  ],
+  "schedule": ["* * * * *"],
+  "postUpdateOptions": ["pnpmDedupe"]
 }
