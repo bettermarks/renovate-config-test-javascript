@@ -5,5 +5,5 @@
   "devDependencies": {
     "@rslib/core": "0.17.2"
   },
-  "packageManager": "pnpm@10.20.0"
+  "packageManager": "pnpm@10.22.0"
 }
