@@ -5,5 +5,11 @@
     ":automergeStableNonMajor"
   ],
   "schedule": ["* * * * *"],
+  "packageRules": [
+    {
+      "matchDatasources": ["npm"],
+      "prCreation": "immediate"
+    }
+  ],
   "postUpdateOptions": ["pnpmDedupe"]
 }
