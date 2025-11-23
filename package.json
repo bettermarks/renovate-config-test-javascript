@@ -3,7 +3,7 @@
     "test": "echo 'what a test'"
   },
   "devDependencies": {
-    "@rslib/core": "0.17.2"
+    "@rslib/core": "0.18.0"
   },
   "packageManager": "pnpm@10.22.0",
   "dependencies": {
