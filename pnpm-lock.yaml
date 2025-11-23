@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       framer-motion:
-        specifier: ^12.23.24
+        specifier: 12.23.24
         version: 12.23.24
     devDependencies:
       '@rslib/core':
