@@ -5,5 +5,8 @@
   "devDependencies": {
     "@rslib/core": "0.17.2"
   },
-  "packageManager": "pnpm@10.22.0"
+  "packageManager": "pnpm@10.22.0",
+  "dependencies": {
+    "framer-motion": "^12.23.24"
+  }
 }
